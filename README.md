@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Automated 3D Spine Reconstruction via Deep Learning
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -40,3 +41,7 @@ El proyecto evalúa y compara dos de las arquitecturas más potentes en el estad
 ## Instalación y Uso
 1. Clonar el repositorio: `git clone https://github.com/TU_USUARIO/spine-segmentation-3d.git`
 2. Instalar dependencias: `pip install -r requirements.txt`
+=======
+# medical-imaging-vertebrae-segmentation
+Segmentación semántica volumétrica y reconstrucción 3D de la columna vertebral mediante ResUNet 3D y MONAI sobre el dataset VerSe
+>>>>>>> b8efb1bf26b6a68d1bd17fc4cb853a4868640761
