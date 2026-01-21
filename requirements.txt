@@ -1,0 +1,8 @@
+torch
+torchvision
+monai
+numpy
+matplotlib
+nibabel
+scikit-image
+simpleitk
