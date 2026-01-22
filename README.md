@@ -54,7 +54,7 @@ $$DSC = \frac{2 |X \cap Y|}{|X| + |Y|}$$
 ### Visual Validation
 Below is a comparative analysis of the segmentation accuracy in both axial slices and 3D Maximum Intensity Projections (MIP).
 
-![Segmentation Comparison](assets/resultado.png)
+![Segmentation Comparison](assets/Resultado.png)
 *Figure 1: Comparative analysis of (a) ResUNet and (b) Swin UNETR performance against Ground Truth.*
 
 ---
