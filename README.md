@@ -67,6 +67,10 @@ Below is a comparative analysis of the segmentation accuracy in both axial slice
 ├── notebooks/          # Implementation: spine_segmentation_3d_resunet.ipynb.
 ├── requirements.txt    # Environment dependencies (PyTorch, MONAI, Nibabel).
 └── README.md           # Project documentation.
+
+```
+
+
 ## Installation and Environment Setup
 
 1. **Clone the repository:**
